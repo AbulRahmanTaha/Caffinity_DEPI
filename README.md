@@ -143,7 +143,7 @@ npm run preview
 ## 📦 Installation
 
 ```bash
-git clone 
+git clone https://github.com/AbulRahmanTaha/Caffinity_DEPI.git
 cd ecommerce
 npm install
 npm run dev
@@ -158,6 +158,3 @@ npm run dev
 * Clean, scalable structure suitable for real-world ecommerce apps
 
 
----
-
-⭐ If you like this project, don’t forget to give it a star!
