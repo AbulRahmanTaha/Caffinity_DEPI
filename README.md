@@ -143,7 +143,7 @@ npm run preview
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/zeyadhanydev/ecommerce.git
+git clone 
 cd ecommerce
 npm install
 npm run dev
