@@ -144,7 +144,6 @@ npm run preview
 
 ```bash
 git clone https://github.com/AbulRahmanTaha/Caffinity_DEPI.git
-cd ecommerce
 npm install
 npm run dev
 ```
